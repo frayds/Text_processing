@@ -1,0 +1,64 @@
+1 deal:0.0625 share:0.0625 time:0.0625 system:0.125 oper:0.0625 exist:0.0625 ibm:0.0625 tss:0.0625 articl:0.0625 comput:0.0625 
+2 priev:0.125 interest:0.0625 pooch:0.125 written:0.0625 udo:0.0625 articl:0.0625 
+3 tcoll:0.1111 compil:0.1111 construct:0.1111 languag:0.1111 multi-target:0.1111 intermedi:0.1111 
+4 interest:0.0408 mechan:0.0408 process:0.0204 work:0.0204 oppos:0.0204 problem:0.0204 message-pass:0.0204 exampl:0.0204 theoret:0.0204 descript:0.0204 commun:0.0204 possibl:0.0204 disjoint:0.0204 procedur:0.0204 distribut:0.0204 call:0.0204 remot:0.0204 implement:0.0204 environ:0.0204 complet:0.0204 abstract:0.0204 exclus:0.0204 
+5 window-manag:0.0312 effect:0.0312 paper:0.0312 command:0.0312 design:0.0625 issu:0.0312 interfac:0.0625 satisfact:0.0312 implement:0.0312 interpret:0.0312 effici:0.0312 improv:0.0312 view:0.0312 essenti:0.0312 edit:0.0312 user:0.0312 human:0.0312 
+6 combinatori:0.0434 particularli:0.0434 arm:0.0434 motion:0.0869 interest:0.0869 plan:0.0434 dynam:0.0434 robot:0.0434 aspect:0.0434 articl:0.0434 geometr:0.0434 
+7 correct:0.0294 program:0.0294 fault-toler:0.0294 understand:0.0294 interest:0.0588 messag:0.0294 process:0.0294 pass:0.0294 techniqu:0.0294 distribut:0.0294 area:0.0294 concurr:0.0294 algorithm:0.0588 -:0.0294 commun:0.0294 includ:0.0294 synchron:0.0294 
+8 oper:0.0833 network:0.1666 system:0.0833 scheme:0.0833 resourc:0.1666 address:0.1666 
+9 local:0.0909 oper:0.0909 secur:0.0909 system:0.1818 network:0.1818 distribut:0.0909 
+10 comput:0.1666 parallel:0.3333 languag:0.3333 
+11 veri:0.2 setl:0.2 languag:0.2 level:0.2 high:0.2 
+12 oper:0.3333 portabl:0.3333 system:0.3333 
+13 code:0.2 effici:0.2 optim:0.2 space:0.2 
+14 implement:0.0769 sort:0.0769 discuss:0.0769 algorithm:0.0769 applic:0.0769 find:0.0769 manag:0.0769 optim:0.0769 databas:0.0769 
+15 loop:0.0588 emphasi:0.0588 discuss:0.0588 special:0.0588 find:0.0588 horizont:0.0588 microcod:0.0588 optim:0.1764 global:0.0588 
+16 descript:0.0625 base:0.0625 multipl:0.0625 messag:0.0625 system:0.0625 oper:0.0625 find:0.0625 pass:0.0625 file:0.0625 handl:0.0625 process:0.0625 
+17 machin:0.1666 intermedi:0.1666 optim:0.1666 code:0.1666 
+18 compil:0.0769 code:0.0769 processor:0.0769 highli:0.0769 parallel:0.0769 languag:0.0769 machin:0.0769 microcod:0.0769 horizont:0.0769 compact:0.0769 especi:0.0769 
+19 algorithm:0.5 parallel:0.5 
+20 spars:0.1428 applic:0.1428 algorithm:0.1428 theoret:0.1428 graph:0.1428 matric:0.1428 
+21 complex:0.125 algorithm:0.125 comput:0.125 effici:0.125 intract:0.125 reduct:0.125 class-complet:0.125 
+22 sphere:0.0434 hidden-lin:0.0434 interest:0.0434 toroid:0.0434 graphic:0.0434 thi:0.0434 topic:0.0434 cylind:0.0434 special:0.0434 hidden-surfac:0.0434 algorithm:0.0434 cone:0.0434 comput:0.0434 
+23 distribut:0.2 structur:0.2 algorithm:0.2 comput:0.2 
+24 process:0.3333 appli:0.3333 stochast:0.3333 
+25 evalu:0.1428 comput:0.1428 model:0.1428 system:0.1428 perform:0.1428 
+26 system:0.1666 oper:0.1666 concurr:0.1666 control:0.1666 mechan:0.1666 
+27 oper:0.1666 manag:0.1666 aspect:0.1666 system:0.1666 memori:0.1666 
+28 deal:0.0303 ani:0.0303 packet:0.0606 interest:0.0606 chang:0.0303 algorithm:0.0303 hardwar:0.0303 inform:0.0303 rout:0.0303 network:0.0909 radio:0.0303 topographi:0.0303 
+29 chines:0.0833 seri:0.0833 siev:0.0833 algorithm:0.0833 theorem:0.0833 involv:0.0833 number:0.0833 prime:0.0833 number-theoret:0.0833 remaind:0.0833 especi:0.0833 
+30 text:0.0526 format:0.0526 scribe:0.0526 exampl:0.0526 system:0.1052 bravo:0.0526 nroff:0.0526 articl:0.0526 includ:0.0526 
+31 american:0.0166 subject:0.0333 valu:0.0166 patterson:0.0333 outer:0.0166 origin:0.0166 mathemat:0.0166 product:0.0166 expans:0.0166 nois:0.0166 approxim:0.0166 describ:0.0166 singular:0.0166 includ:0.0166 digit:0.0333 andrew:0.0333 articl:0.0333 applic:0.0166 find:0.0333 decomposit:0.0166 restor:0.0166 process:0.0333 imag:0.0666 
+32 isomorph:0.0227 ajac:0.0227 interest:0.0227 graph:0.0909 heurist:0.0227 method:0.0227 base:0.0227 articl:0.0227 especi:0.0227 valu:0.0227 eigenvalu:0.0227 algorithm:0.0454 matrix:0.0227 find:0.0227 decomposit:0.0454 thi:0.0227 color:0.0227 describ:0.0227 singular:0.0227 ani:0.0227 
+33 kahn:0.025 8:0.0125 zero-on:0.0125 numer:0.025 interest:0.0125 distinct:0.0125 invari:0.0125 stewart:0.025 4:0.0125 siam:0.025 especi:0.0125 davi:0.025 vol:0.025 eigenvalu:0.025 permut:0.0125 subspac:0.0125 subject:0.0125 linear:0.0125 rotat:0.0125 correspond:0.0125 sensit:0.0125 1971:0.0125 close:0.0125 oper:0.0125 approxim:0.0125 1970:0.0125 eigenvector:0.0125 1:0.0125 articl:0.025 real:0.0125 eigenspac:0.0125 bound:0.0125 analysi:0.025 matric:0.025 decomposit:0.0125 error:0.0125 7:0.0125 separ:0.0125 
+34 heindel:0.0588 interest:0.0588 materi:0.0588 polynomi:0.0588 isol:0.0588 recent:0.0588 current:0.0588 root:0.0588 
+35 deal:0.0357 waztch:0.0357 polynomi:0.0357 symbol:0.0357 rabiin:0.0357 field:0.0357 algebra:0.0357 siam:0.0714 especi:0.0357 rabin:0.0357 probabilist:0.1071 algorithm:0.0714 test:0.0357 exampl:0.0357 manipul:0.0357 ident:0.0357 finit:0.0357 
+36 algorithm:0.125 recognit:0.125 fast:0.125 languag:0.125 context-fre:0.125 pars:0.125 
+37 synchron:0.0151 system:0.0151 process:0.0303 correct:0.0151 message-pass:0.0151 attempt:0.0151 describ:0.0151 data:0.0151 messag:0.0303 type:0.0757 ani:0.0303 treat:0.0151 bit:0.0151 relationship:0.0151 articl:0.0151 sender:0.0151 --i:0.0151 check:0.0151 concurr:0.0151 receiv:0.0151 notion:0.0151 stream:0.0151 
+38 question:0.0196 type:0.0392 interest:0.0196 check:0.0196 entir:0.0196 phrase:0.0196 thi:0.0196 avoid:0.0196 don:0.0196 match:0.0196 literatur:0.0196 modul:0.0392 context:0.0196 abstract:0.0196 data:0.0196 
+39 oper:0.0294 type:0.0882 data:0.0294 extens:0.0294 thi:0.0294 compat:0.0294 doe:0.0294 programmer-suppli:0.0294 defin:0.0294 languag:0.0588 programm:0.0294 definit:0.0588 abstract:0.0294 restrict:0.0294 
+40 deal:0.0285 type:0.0571 abov:0.0285 paper:0.0285 list:0.0285 interest:0.0285 follow:0.0285 articl:0.0285 structur:0.0285 ani:0.0285 frequent:0.0285 languag:0.0857 catch:0.0285 referenc:0.0285 miss:0.0285 data:0.0285 
+41 station:0.0208 fault-toler:0.0208 conn:0.0208 interest:0.0208 system:0.0625 asynchron:0.0208 process:0.0208 model:0.0208 theori:0.0416 databas:0.0208 algorithm:0.0208 includ:0.0208 commun:0.0208 2158:0.0208 06520:0.0208 synchron:0.0208 lower:0.0208 transact:0.0208 subtop:0.0208 alloc:0.0208 atom:0.0208 reliabl:0.0208 distribut:0.0625 bound:0.0208 box:0.0208 parallel:0.0208 special:0.0208 protocol:0.0208 yale:0.0208 resourc:0.0208 haven:0.0208 
+42 cluster:0.0909 comput:0.0909 recognit:0.0909 pattern:0.0909 evalu:0.0909 la:0.0909 perform:0.0909 70803:0.0909 techniqu:0.0909 
+43 two-dimension:0.0454 percept:0.0454 comput:0.0909 circular:0.0454 recognit:0.0454 descript:0.0454 match:0.0454 shape:0.2272 measur:0.0454 human:0.0454 analysi:0.0454 
+44 synthesi:0.0833 percept:0.0833 textur:0.3333 comput:0.0833 digit:0.0833 analysi:0.1666 
+45 decis:0.0384 oper:0.0384 index:0.0384 system:0.0384 perform:0.0384 file:0.0384 select:0.0384 fine:0.0384 secondari:0.0384 model:0.0384 distribut:0.0384 databas:0.0384 research:0.0384 inform:0.0384 tune:0.0384 thi:0.0384 optim:0.0384 reorgan:0.0384 includ:0.0384 
+46 automat:0.05 fuzzi:0.05 perform:0.05 subset:0.05 cluster:0.05 thi:0.05 theori:0.05 index:0.05 applic:0.05 problem:0.05 inform:0.05 evalu:0.05 retriev:0.05 includ:0.05 
+47 bayesian:0.0333 decis:0.0333 determin:0.0333 system:0.0333 stop:0.0333 ceas:0.0333 user:0.0333 perform:0.0333 output:0.0333 model:0.0333 thi:0.0333 search:0.0333 rule:0.0333 inform:0.0333 retriev:0.0666 optim:0.0333 scan:0.0333 includ:0.0333 
+48 structur:0.0294 numer:0.0294 comput:0.0294 khachian:0.0294 complex:0.0294 issu:0.0294 thi:0.0294 includ:0.0294 russian:0.0294 program:0.0294 ellipsoid:0.0294 principl:0.0294 method:0.0294 linear:0.0294 algorithm:0.0882 gener:0.0294 optim:0.0294 scienc:0.0294 data:0.0294 
+49 base:0.0769 role:0.0769 system:0.1538 inform:0.0769 retriev:0.0769 expert:0.0769 knowledg:0.0769 
+50 inform:0.2 retriev:0.2 processor:0.2 parallel:0.2 
+51 page:0.2 processor:0.2 algorithm:0.2 parallel:0.2 
+52 agricultur:0.1666 model:0.1666 simul:0.1666 ecosystem:0.1666 
+53 induct:0.0384 link:0.0384 313:0.0384 coeffici:0.0384 syracus:0.0769 morphism:0.0384 hall:0.0384 binomi:0.0769 matrix:0.0384 mathemat:0.0384 transit:0.0384 theori:0.0384 integ:0.0384 modulo:0.0384 homomorph:0.0384 group:0.0384 13210:0.0384 univers:0.0384 probabl:0.0384 relat:0.0769 theorem:0.0384 
+54 correct:0.0384 type:0.0384 amherst:0.0384 data:0.0384 specif:0.0384 dijkstra:0.0384 massachusett:0.0384 hoar:0.0384 program:0.0384 semant:0.0769 denot:0.0384 ma:0.0384 languag:0.0384 univers:0.0384 includ:0.0384 01003:0.0384 abstract:0.0384 proof:0.0384 
+55 deal:0.0714 regular:0.2142 express:0.0714 height:0.0714 languag:0.0714 star:0.0714 anyth:0.0714 event:0.0714 
+56 regular:0.0588 studi:0.0588 automata:0.0588 articl:0.0588 monoid:0.0588 languag:0.0588 relat:0.0588 algebra:0.0588 theori:0.0588 semigroup:0.0588 
+57 1979:0.0212 forum:0.0212 backu:0.0425 function:0.0212 von:0.0212 22:0.0212 algebra:0.0212 perli:0.0425 liber:0.0212 lipton:0.0425 21:0.0212 neumann:0.0212 629-630:0.0212 style:0.0425 program:0.0425 articl:0.0212 acm:0.0212 de:0.0212 letter:0.0212 millo:0.0425 abstract:0.0212 cacm:0.0425 
+58 interest:0.0270 system:0.0270 univari:0.0270 capabl:0.0270 packag:0.0270 test:0.0540 model:0.0270 compon:0.0270 linear:0.0270 statist:0.0540 includ:0.0270 design:0.0270 wilcoxon:0.0270 squar:0.0270 multivari:0.0270 sign:0.0270 student:0.0270 regress:0.0270 algorithm:0.0270 gener:0.0270 anova:0.0270 formula:0.0270 
+59 word:0.0322 natur:0.0322 item:0.0322 construct:0.0322 lexic:0.0322 access:0.0322 dictionari:0.0322 problem:0.0322 english:0.0322 spell:0.0322 index:0.0322 inform:0.0322 morpholog:0.0322 method:0.0645 usual:0.0322 languag:0.0322 fast:0.0322 retriev:0.0322 hash:0.0322 relat:0.0322 appli:0.0322 
+60 adaba:0.0243 system:0.0731 hierarch:0.0243 im:0.0243 thing:0.0243 disk:0.0243 packag:0.0243 associ:0.0243 softwar:0.0243 microcomput:0.0243 network:0.0243 manag:0.0243 total:0.0243 codasyl:0.0243 comput:0.0243 head:0.0243 back:0.0243 model:0.0243 end:0.0243 hardwar:0.0487 special:0.0243 databas:0.0487 relat:0.0487 rap:0.0243 attach:0.0243 
+61 vector:0.0322 gerard:0.0322 citat:0.0322 coupl:0.0322 bibliograph:0.0322 cluster:0.0322 space:0.0322 articl:0.0322 model:0.0322 search:0.0322 salton:0.0645 file:0.0322 feedback:0.0322 inform:0.0322 method:0.0322 retriev:0.0322 invert:0.0322 co-cit:0.0322 boolean:0.0322 
+62 pram:0.0833 complex:0.0833 parallel:0.0833 uniform:0.0833 result:0.0833 circuit:0.0833 relat:0.0833 theori:0.0833 
+63 algorithm:0.1666 comput:0.0833 parallel:0.1666 sequenti:0.0833 comparison:0.0833 especi:0.0833 
+64 1:0.0454 el1:0.0909 el:0.0454 list:0.0454 ecl:0.0454 rememb:0.0454 articl:0.0454 don:0.0454 

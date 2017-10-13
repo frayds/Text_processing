@@ -5,10 +5,14 @@
 ## Motivation 创作动机
 此项目是Text Processing课程的课程设计,占总成绩的50%。
 ## Installation 如何安装
-下载此项目，使用IDE打开Assignment文件夹或者在命令行窗口将文件目标路径定位到此文件夹。执行M1.java函数，在出现图形界面之后，根据图像界面上的按钮名称，点击相关按钮进程对机器人以及部分场景环境的操作。
-## API Reference
-需要提前安装JOGL环境，可以通过[JOGL官方网站](http://jogamp.org/jogl/www/)进行了解和安装。
+下载此项目，在命令行窗口将文件目标路径定位到此文件夹。执行project.py函数
+### HELP 操作
+在命令行里面输入python project.py -h，能够在命令行里面显示帮助信息。
+### Stoplist 过滤表
+在命令行里面输入python project.py -s stop_list.txt，能够导入过滤表的内容，以便于进行下一步的程序操作。
+### Queries and Documents 目标文章文件以及数据库文章文件
+在命令行里面输入python project.py -c documents.txt -i queries.txt，能够导入目标文章文件以及数据库文章文件。
 ## Tests 项目运行效果
-
+在程序执行过程中，一共会产生3个文件，
 ## Contributors 参与者介绍
 濮一帆:advanced Computer Science, Department of Computer Science, University of Sheffield

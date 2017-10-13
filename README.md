@@ -13,6 +13,15 @@
 ### Queries and Documents 目标文章文件以及数据库文章文件
 在命令行里面输入python project.py -c documents.txt -i queries.txt，能够导入目标文章文件以及数据库文章文件。
 ## Tests 项目运行效果
-在程序执行过程中，一共会产生3个文件，
+在程序执行过程中，一共会产生3个文件
+### IndexDocuments.txt
+这个文件中存放的是针对数据库文件得出的tf-idf的数据结构，根据{word:{id:{’tf’,’id’,’tf*idf’}}}的结构按照每个单词序排列。
+![](https://github.com/frayds/Text_processing/raw/master/demo_pictures/IndexDocument.png)
+### IndexQueries.txt
+这个文件中存放的是针对目标文件得出的tf的数据结构，根据{id:{wd:’tf’}}的结构按照文章顺序排列。
+![](https://github.com/frayds/Text_processing/raw/master/demo_pictures/IndexQueries.png)
+### DocSort.txt
+这个文件中存放的是整个程序的运行结果
+![](https://github.com/frayds/Text_processing/raw/master/demo_pictures/DocSort.png)
 ## Contributors 参与者介绍
 濮一帆:advanced Computer Science, Department of Computer Science, University of Sheffield
